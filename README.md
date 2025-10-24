@@ -2,14 +2,12 @@
 
 Computer Engineering student at Aligarh Muslim University, passionate about Backend Development and AI systems.
 
-## <span style="color:gray;">About Me</span> 
+## <span align="left" style="color:gray;">About Me</span> 
 
- I am **Ayushi Gupta**, currently in my final year of **Computer Engineering** at Aligarh Muslim University. I am passionate about **backend development**, **AI**, and building scalable software systems. Over the past few years, I have gained hands on experience through internships and projects involving **Spring Boot**, **microservices**, **machine learning**, and **deep learning**. I love solving challenging problems, learning new technologies, and turning ideas into real-world applications. Outside of coding, I actively participate in competitive programming and tech communities to sharpen my skills and help others grow.  
-I have **6+ months of experience** in the software development domain and have completed internships as:  
+ - I am **Ayushi Gupta**, currently in my final year of **Computer Engineering** at Aligarh Muslim University. I am passionate about **backend development**, **AI**, and building scalable software systems. Over the past few years, I have gained hands on experience through internships and projects involving **Spring Boot**, **microservices**, **machine learning**, and **deep learning**. 
+ - I’ve gained **hands-on experience** through internships at **Infoglen**, **IIT Madras**, and **IIT Hyderabad**, where I worked on projects involving **Java**, **machine learning**, and **AI-based automation**.
+ - I love solving challenging problems, learning new technologies, and turning ideas into real-world applications. Outside of coding, I actively participate in competitive programming and tech communities to sharpen my skills and help others grow.  
 
-- **SDE Intern** at <a href="#infoglen" style="color:#1E90FF;">Infoglen</a>  
-- **AI Intern** at <a href="#iit-madras" style="color:#1E90FF;">IIT-Madras</a>  
-- **AI Intern** at <a href="#iit-hyderabad" style="color:#1E90FF;">IIT-Hyderabad</a> 
 
 ---
 
