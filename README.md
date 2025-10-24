@@ -4,26 +4,19 @@ Computer Engineering student at Aligarh Muslim University, passionate about Back
 
 ## <span align="left" style="color:gray;">About Me</span> 
 
- - I am **Ayushi Gupta**, currently in my final year of **Computer Engineering** at Aligarh Muslim University. I am passionate about **backend development**, **AI**, and building scalable software systems. Over the past few years, I have gained hands on experience through internships and projects involving **Spring Boot**, **microservices**, **machine learning**, and **deep learning**. 
- - I’ve gained **hands-on experience** through internships at **Infoglen**, **IIT Madras**, and **IIT Hyderabad**, where I worked on projects involving **Java**, **machine learning**, and **AI-based automation**.
- - I love solving challenging problems, learning new technologies, and turning ideas into real-world applications. Outside of coding, I actively participate in competitive programming and tech communities to sharpen my skills and help others grow.  
-
+ I am **Ayushi Gupta**, currently in my final year of **Computer Engineering** at Aligarh Muslim University. I am passionate about **backend development**, **AI**, and building scalable software systems. Over the past few years, I have gained hands on experience through internships and projects involving **Spring Boot**, **microservices**, **machine learning**, and **deep learning**. <br><br>
+ I’ve gained **hands-on experience** through internships at **Infoglen**, **IIT Madras**, and **IIT Hyderabad**, where I worked on projects involving **Java**, **machine learning**, and **AI-based automation**. <br><br>
+ I love solving challenging problems, learning new technologies, and turning ideas into real-world applications. Outside of coding, I actively participate in competitive programming and tech communities to sharpen my skills and help others grow.  
 
 ---
 
-### Connect with Me
+## <span style="color:gray;">Connect with Me</span>
 
-<p align="left">
-  <a href="https://github.com/g14ayushi" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://g14ayushi.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/Blog-0A66C2?style=for-the-badge&logo=hashnode&logoColor=white" alt="Blog"/>
-  </a>
-  <a href="mailto:ayushi.gupta.9370@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
+You can check out all my projects and open-source work on [GitHub](https://github.com/g14ayushi).  
+I regularly share insights, experiences, and achievements on [LinkedIn](https://www.linkedin.com/in/ayushigupta9370/).  
+For a deeper dive into my thoughts and technical writings, visit my [Blog](https://g14ayushi.github.io/about).  
+Feel free to reach out to me via [email](mailto:ayushi.gupta.9370@gmail.com) — I’m always open to discussing ideas and collaborations!
+
 
 ---
 
